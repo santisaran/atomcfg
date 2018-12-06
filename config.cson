@@ -1,0 +1,17 @@
+"*":
+  core:
+    disabledPackages: [
+      "symbols-view"
+    ]
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 12
+  "exception-reporting":
+    userId: "20846310-573a-4355-8b17-d4c253ddb476"
+  "goto-definition":
+    performanceMode: true
+  "plantuml-preview":
+    jarLocation: "e:\\plantuml.jar"
+  "symbols-tree-view":
+    autoHide: true
